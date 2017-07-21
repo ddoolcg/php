@@ -1,0 +1,32 @@
+Nov 14 14:11:58 [16635]: Trying to smtp.sina.com:25
+Nov 14 14:11:58 [16635]: Error: Cannot connenct to relay host smtp.sina.com
+Nov 14 14:11:58 [16635]: Error: php_network_getaddresses: gethostbyname failed. errno=2 (0)
+Nov 14 14:11:58 [16635]: Error: Cannot send email to 475825657@qq.com
+Nov 15 09:44:58 [25688]: Trying to smtp.sina.com:25
+Nov 15 09:44:58 [25688]: Error: Cannot connenct to relay host smtp.sina.com
+Nov 15 09:44:58 [25688]: Error: php_network_getaddresses: gethostbyname failed. errno=2 (0)
+Nov 15 09:44:58 [25688]: Error: Cannot send email to 475825657@qq.com
+Nov 15 10:10:44 [25688]: Trying to smtp.163.com:25
+Nov 15 10:10:44 [25688]: Error: Cannot connenct to relay host smtp.163.com
+Nov 15 10:10:44 [25688]: Error: php_network_getaddresses: gethostbyname failed. errno=2 (0)
+Nov 15 10:10:44 [25688]: Error: Cannot send email to 475825657@qq.com
+Nov 15 10:11:02 [25688]: Trying to smtp.163.com:25
+Nov 15 10:11:02 [25688]: Error: Cannot connenct to relay host smtp.163.com
+Nov 15 10:11:02 [25688]: Error: php_network_getaddresses: gethostbyname failed. errno=2 (0)
+Nov 15 10:11:02 [25688]: Error: Cannot send email to 475825657@qq.com
+Nov 15 10:26:11 [25688]: Trying to smtp.163.com:25
+Nov 15 10:26:11 [25688]: Error: Cannot connenct to relay host smtp.163.com
+Nov 15 10:26:11 [25688]: Error: php_network_getaddresses: gethostbyname failed. errno=2 (0)
+Nov 15 10:26:11 [25688]: Error: Cannot send email to 475825657@qq.com
+Nov 15 10:48:16 [25688]: Trying to smtp.163.com:25
+Nov 15 10:48:16 [25688]: Error: Cannot connenct to relay host smtp.163.com
+Nov 15 10:48:16 [25688]: Error: php_network_getaddresses: gethostbyname failed. errno=2 (0)
+Nov 15 10:48:16 [25688]: Error: Cannot send email to 475825657@qq.com
+Nov 15 10:49:48 [25688]: Trying to smtp.163.com:25
+Nov 15 10:49:48 [25688]: Error: Cannot connenct to relay host smtp.163.com
+Nov 15 10:49:48 [25688]: Error:  (Failed to parse address "smtp.163.com")
+Nov 15 10:49:48 [25688]: Error: Cannot send email to 475825657@qq.com
+Nov 15 10:53:40 [25688]: Trying to smtp.163.com:25
+Nov 15 10:53:40 [25688]: Error: Cannot connenct to relay host smtp.163.com
+Nov 15 10:53:40 [25688]: Error: php_network_getaddresses: gethostbyname failed. errno=2 (0)
+Nov 15 10:53:40 [25688]: Error: Cannot send email to 475825657@qq.com
