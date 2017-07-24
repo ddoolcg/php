@@ -87,9 +87,6 @@ $app->post("/mail", function(Request $request, Response $response) {
 	$mailtitle = $data['title'];
 	$mailcontent = $data['content'];
 	$mailtype = "HTML";
-	if($ver == null){
-		return $response->getBody()->write("对不起，邮件发送失败！");
-	}
 	if($smtpemailto != "475825657@qq.com"){
 		return $response->getBody()->write("对不起，邮件发送失败！");
 	}
