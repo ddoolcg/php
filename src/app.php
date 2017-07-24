@@ -1,7 +1,7 @@
 <?php
 require __DIR__ . '/../vendor/autoload.php';
 require __DIR__ . '/../src/cloud.php';
-require_once "/../mail/email.class.php";error_reporting(E_ALL & ~E_NOTICE);
+require __DIR__  . "/../mail/email.class.php";error_reporting(E_ALL & ~E_NOTICE);
 /*
  * A simple Slim based sample application
  *
